@@ -186,7 +186,7 @@ Módulo de detalles del producto.
 # 📂 Estructura del proyecto
 
 ```bash
-TechStore-App/
+PlataformaShopingProductosTecnologicos/
 │
 ├── app/
 │   ├── screens/               # Pantallas Compose
@@ -260,7 +260,7 @@ TechStore-App/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/yourusername/TechStore-App.git
+git clone https://github.com/isairey/PlataformaShopingProductosTecnologicos.git
 ```
 
 ---
@@ -268,7 +268,7 @@ git clone https://github.com/yourusername/TechStore-App.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd TechStore-App
+cd PlataformaShopingProductosTecnologicos
 ```
 
 ---
@@ -394,7 +394,7 @@ git push origin feature/nueva-funcionalidad
 
 <div align="center">
 
-## Talha Shafique — Android Developer
+## Isai Reyes — Android Developer
 
 Desarrollador apasionado por aplicaciones móviles modernas, interfaces elegantes y experiencias premium en Android 🚀
 
